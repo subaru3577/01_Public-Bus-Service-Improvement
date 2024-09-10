@@ -4,6 +4,8 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Author: Subaru Shimizu
 - Grade: 85/100
 
+JupyterNotebook is available [here](https://github.com/subaru3577/01_UrbanPolicy/blob/76d8d3ab4f0e1e8345f62b66584434fd733d184c/PublicBusServiceImprovement.ipynb).
+
 **Overview:**  
   
 This work sheds light on the disparity in school travel between urban and rural areas. Students in rural areas often experience more extended school travel and unfavourable walking conditions due to inadequate pavement and road safety concerns. Given the budgetary constraints of the local governments, one potential policy is to enhance public transport services and utilise them for school trips. 
