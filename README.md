@@ -14,6 +14,15 @@ This work aims to address the issue by identifying the areas with higher priorit
 - *Topic: Urban policy, Student Travel, Public Transport*  
 - *Keywords: Geospatial analysis, Spatial composite indexing with demographic data, Network analysis with GTFS data*
 
+**Result:**  
+Priority Quintile Rank of Four Input Variables  
+![Four_Priority_Index](https://github.com/user-attachments/assets/be30eca4-f312-4f41-be83-d647bf7631be)  
+Priority Quintile Rank of Priority Index  
+![QuintileRank_InputVariables](https://github.com/user-attachments/assets/5014645f-ea80-4057-a294-e39dc61fb4fb)  
+Case Study and Policy Implications
+![Case_Study](https://github.com/user-attachments/assets/d34f1827-fbc9-4398-b65f-72b9309fc4ae)  
+
+
 **Disclaimer:**  
 - This work is for educational and informational purposes only. The author makes no warranties or representations about the accuracy, reliability, or completeness of the code.
 - The author does not take any responsibility for any direct, indirect, incidental, or consequential damages and losses from the use of the work.
