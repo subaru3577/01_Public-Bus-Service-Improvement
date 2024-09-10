@@ -22,12 +22,6 @@ Priority Quintile Rank of Four Input Variables(School Accessibility, Public Tran
 Priority Quintile Rank of Priority Index  
 ![QuintileRank_InputVariables](https://github.com/user-attachments/assets/d5befe69-87ee-491f-8d6b-c3aab04d1c14)  
   
-Case Study and Policy Implications  
-![Case_Study](https://github.com/user-attachments/assets/d34f1827-fbc9-4398-b65f-72b9309fc4ae)  
-
-
-
-
 
 **Disclaimer:**  
 - This work is for educational and informational purposes only. The author makes no warranties or representations about the accuracy, reliability, or completeness of the code.
