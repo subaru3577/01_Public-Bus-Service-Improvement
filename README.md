@@ -20,7 +20,8 @@ Priority Quintile Rank of Four Input Variables
 - School Accessibility
 - Public Transport Availability
 - Road Safety
-- Student Distribution  
+- Student Distribution
+  
 ![Four_Priority_Index](https://github.com/user-attachments/assets/78727cd1-5fcb-47c0-9272-0182004745e0)  
   
 Priority Quintile Rank of Priority Index  
