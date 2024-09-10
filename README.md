@@ -19,7 +19,7 @@ Priority Quintile Rank of Four Input Variables
 ![Four_Priority_Index](https://github.com/user-attachments/assets/be30eca4-f312-4f41-be83-d647bf7631be)  
 Priority Quintile Rank of Priority Index  
 ![QuintileRank_InputVariables](https://github.com/user-attachments/assets/5014645f-ea80-4057-a294-e39dc61fb4fb)  
-Case Study and Policy Implications
+Case Study and Policy Implications  
 ![Case_Study](https://github.com/user-attachments/assets/d34f1827-fbc9-4398-b65f-72b9309fc4ae)  
 
 
