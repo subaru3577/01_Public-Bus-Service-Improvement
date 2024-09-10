@@ -16,7 +16,11 @@ This work aims to address the issue by identifying the areas with higher priorit
 
 **Visualisations of Results:**  
   
-Priority Quintile Rank of Four Input Variables(School Accessibility, Public Transport Availability, Road Safety, and Student Distribution)  
+Priority Quintile Rank of Four Input Variables   
+- School Accessibility
+- Public Transport Availability
+- Road Safety
+- Student Distribution  
 ![Four_Priority_Index](https://github.com/user-attachments/assets/78727cd1-5fcb-47c0-9272-0182004745e0)  
   
 Priority Quintile Rank of Priority Index  
