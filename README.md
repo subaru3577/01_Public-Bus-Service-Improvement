@@ -4,7 +4,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Author: Subaru Shimizu
 - Grade: 85/100
 
-[JupyterNotebook is available here](https://github.com/subaru3577/01_UrbanPolicy/blob/76d8d3ab4f0e1e8345f62b66584434fd733d184c/PublicBusServiceImprovement.ipynb).
+[JupyterNotebook](https://github.com/subaru3577/01_UrbanPolicy/blob/76d8d3ab4f0e1e8345f62b66584434fd733d184c/PublicBusServiceImprovement.ipynb) is available.
 
 **Overview:**  
   
